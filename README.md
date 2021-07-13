@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 
 <p align="center">
-    <img height="100px" src='src/assets/logo.svg' alt="Logo">
+    <img height="100px" src='src/assets/images/logo.svg' alt="Logo">
 </p>
 
 <!-- TABLE OF CONTENTS -->
